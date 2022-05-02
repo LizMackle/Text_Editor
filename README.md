@@ -1,5 +1,5 @@
 # 19 - PWA: Text Editor📝
-<a href="">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-Unlicensed-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/text_editor?style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/text_editor?color=orange&style=for-the-badge)
+<a href="">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-Unlicensed-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/text_editor?color=yellow&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/text_editor?color=orange&style=for-the-badge)
 
 ## Description
 A single-page text editor that runs in the browser that features data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
