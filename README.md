@@ -23,6 +23,9 @@ Install all dependencies required for application:<br>
 ## Usage
 To use this app, use the following command:
 
+Build the app<br>
+`npm run build`
+
 Start the server<br>
 `npm start`
   
