@@ -26,7 +26,11 @@ To use this app, use the following command:
 Start the server<br>
 `npm start`
   
-### [Deployed Link](https://text-editor-lm.herokuapp.com/)
+### [Deployed App](https://text-editor-lm.herokuapp.com/)
+
+https://user-images.githubusercontent.com/93589073/167232948-eb550c36-98a5-42a5-94c4-430f1d62d147.mp4
+
+![Capture 1](https://user-images.githubusercontent.com/93589073/167232944-2f315d63-ae6c-4eea-8cc9-83de976fab3e.png)
 
 ## Contribution
 Please feel free to contribute in any way by forking the repo and creating a pull request.
